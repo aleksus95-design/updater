@@ -1,6 +1,6 @@
 {
-  "version": "2026.04.09.0507",
+  "version": "2026.04.09.0548",
   "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/WILD_Launcher_Single.exe",
-  "sha256": "ab6c65a0bd402c38e87bbf08520b2642aeb1765db6da52f7659b6e27e14a7afc",
-  "notes": "Added Steam ID to anti-cheat and file diagnostics; improved launch and mod failure tracing for player support."
+  "sha256": "164fdaefdd25d7ac3728cb75c19e54e41bf4d9bfd0d60bb4324e18333ee9a487",
+  "notes": "Fixed launcher update detection by bypassing stale manifest cache and preferring live GitHub API responses."
 }
