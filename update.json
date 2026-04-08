@@ -1,6 +1,6 @@
 {
-  "version": "2026.04.09.0839",
+  "version": "2026.04.09.0848",
   "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/WILD_Launcher_Single.exe",
-  "sha256": "140548b73640f74f328cb42fb6ce2ebf5cd2373195fb77fd2e5e0502740bd600",
-  "notes": "My servers, sorting, refresh icon, and translations fixed."
+  "sha256": "2cdf9c4b023799f94e4b0bf4ef1e9de01eba550e4760675fb03d67b121dee88c",
+  "notes": "Filter tip size adjusted."
 }
