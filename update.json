@@ -1,6 +1,6 @@
 {
-  "version": "2026.04.09.0548",
+  "version": "2026.04.09.0839",
   "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/WILD_Launcher_Single.exe",
-  "sha256": "164fdaefdd25d7ac3728cb75c19e54e41bf4d9bfd0d60bb4324e18333ee9a487",
-  "notes": "Fixed launcher update detection by bypassing stale manifest cache and preferring live GitHub API responses."
+  "sha256": "140548b73640f74f328cb42fb6ce2ebf5cd2373195fb77fd2e5e0502740bd600",
+  "notes": "My servers, sorting, refresh icon, and translations fixed."
 }
