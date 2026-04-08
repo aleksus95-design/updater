@@ -1,6 +1,6 @@
 {
-  "version": "2026.04.05.1810",
+  "version": "2026.04.08.2354",
   "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/WILD_Launcher_Single.exe",
-  "sha256": "47c576d9c7ace7d363d46cbecaf121118c3294d57d29146ad07378426955e8c9",
-  "notes": "Добавлена публичная система обновления лаунчера через GitHub updater."
+  "sha256": "e384c7455652844616cfd2311ec3c9d4f9535ca52df1349ed3a855b47903c558",
+  "notes": "Тестовое обновление игроков и владельцев: owner anti-cheat logs repo, GitHub shorthand owner/repo, усилена owner-авторизация при сохранении."
 }
