@@ -1,6 +1,6 @@
 {
-  "version": "2026.04.09.2048",
+  "version": "2026.04.09.2108",
   "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
-  "sha256": "3ef863252e06aafffafa0565d206188e521293fe6a10dd146ea77ff03307c893",
-  "notes": "Queued helper handoff verified, safer legacy bridge scanning."
+  "sha256": "1f95830e12f87437b35fcae929c371504ed6f0c7d9df198e41cc3166a5eacbcd",
+  "notes": "Fixed deleted glow-effect crash before helper updater launch."
 }
