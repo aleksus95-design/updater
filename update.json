@@ -1,6 +1,6 @@
 {
-  "version": "2026.04.10.0018",
+  "version": "2026.04.10.0218",
   "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
-  "sha256": "8277a789119041ee55b883593c9098114d8c2aad8bc9207531bff0b9256066fc",
-  "notes": "Registration numpad submit fixed, one-time owner claim codes hardened, stability and startup/network cleanup improved."
+  "sha256": "426f5499f5d232f977ff9497586ab1c9810228db54ba087ad2e152d4ae02a876",
+  "notes": "Launch-state guard, owner claim recovery, nested pak cleanup."
 }
