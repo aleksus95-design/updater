@@ -1,6 +1,6 @@
 {
-  "version": "2026.04.09.1306",
+  "version": "2026.04.09.1322",
   "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
-  "sha256": "9602ae2d87332d53b2869a88a35660f27c1ee0f9c4b9193461abcf358e445c7a",
-  "notes": "Script bootstrap updater with legacy rescue bridge."
+  "sha256": "39225ac80ed96c704f7ee30b458429409119b4ea7003c50d80d39fb8c47b8f43",
+  "notes": "Post-update focus for visible launcher restart."
 }
