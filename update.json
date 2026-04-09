@@ -1,6 +1,6 @@
 {
-  "version": "2026.04.10.0238",
+  "version": "2026.04.10.0418",
   "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
-  "sha256": "12c6a886c90e25f5caaab7eefb125858abd89cb728c873df1ef8e3cc5b932279",
-  "notes": "Test update build."
+  "sha256": "f09731540a6bcdcf4e8dfcfdaa0f6a9f2fec066d6107194e93e6a4ab2408825e",
+  "notes": "Language switching performance and UI refresh stability fix."
 }
