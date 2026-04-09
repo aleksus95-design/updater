@@ -1,6 +1,6 @@
 {
-  "version": "2026.04.09.1458",
+  "version": "2026.04.09.1522",
   "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
-  "sha256": "8ae4bd9fe788884a3ada65ee91719c7b5532d8c0517336f7d91daff6ed261915",
-  "notes": "Updater relaunch fixed, visible progress path verified, legacy sidecar rescue added."
+  "sha256": "0c76ca12510cae36f717d70c33c586e05156c1a523cb721088610cd9a1da4b13",
+  "notes": "Only modded tab enforces IP:PORT connection checks; public servers keep anti-cheat logging without forced endpoint tracking."
 }
