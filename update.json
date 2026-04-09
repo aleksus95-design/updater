@@ -1,6 +1,6 @@
 {
-  "version": "2026.04.09.1408",
+  "version": "2026.04.09.1458",
   "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
-  "sha256": "97f4fef843118362f0ef14d6680ef7a8dc84f56657a6e59b1fa68b1484eeeec0",
-  "notes": "Fresh update verification build."
+  "sha256": "8ae4bd9fe788884a3ada65ee91719c7b5532d8c0517336f7d91daff6ed261915",
+  "notes": "Updater relaunch fixed, visible progress path verified, legacy sidecar rescue added."
 }
