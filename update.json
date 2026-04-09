@@ -1,6 +1,6 @@
 {
-  "version": "2026.04.09.0868",
+  "version": "2026.04.09.0912",
   "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
-  "sha256": "2213fbe1330222b439b61d30f8b8d2bba33f512f76d3bfbb103da150ad424a43",
-  "notes": "Launcher file name aligned with SCUM_Server_Browser.exe."
+  "sha256": "9500823fc0c7669880e364b8b68b4746762ac5e90103680c30f261f18a5cef0d",
+  "notes": "Filters now apply across all tabs."
 }
