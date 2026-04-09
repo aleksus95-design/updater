@@ -1,6 +1,6 @@
 {
-  "version": "2026.04.10.2131",
+  "version": "2026.04.10.2332",
   "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
-  "sha256": "55e8a8a1388fe27a2db5c7e416f7bc53c1e5020a575c74aba52093f88b725bd8",
-  "notes": "Localization/runtime translation stability, owner mod repo UI, styled my servers, shorter owner code, performance fixes."
+  "sha256": "750ea23bca21c3de8b87abcc14354b57247c9e6d6f17b1b2b7aa1847177b8bcd",
+  "notes": "Server info owner scroll, my servers card layout fix, owner UI stability and performance pass."
 }
