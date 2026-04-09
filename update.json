@@ -1,6 +1,6 @@
 {
-  "version": "2026.04.09.0912",
+  "version": "2026.04.09.0942",
   "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
-  "sha256": "9500823fc0c7669880e364b8b68b4746762ac5e90103680c30f261f18a5cef0d",
-  "notes": "Filters now apply across all tabs."
+  "sha256": "c42eeebb23da61963a81d03dc245986c1aecbc4d9aa423c5a84f3f77e9ed7340",
+  "notes": "Updater now downloads a visible sidecar and verifies bootstrap start."
 }
