@@ -1,6 +1,6 @@
 {
-  "version": "2026.04.09.1928",
+  "version": "2026.04.09.1948",
   "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
-  "sha256": "73bbdd4e624fc71da369f9dc99eb52170a8f1b2a76245b00f5849a94f6c7c56f",
-  "notes": "Updater helper payload handoff fixed, visible restart chain."
+  "sha256": "f686ccb0002aeb95bf1792b7d126adc799d78cf2ee2cc7af53a3dc249c28c76c",
+  "notes": "Direct detached helper launch fixed, safer payload parsing, visible updater chain."
 }
