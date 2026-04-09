@@ -1,6 +1,6 @@
 {
-  "version": "2026.04.09.0848",
-  "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/WILD_Launcher_Single.exe",
-  "sha256": "2cdf9c4b023799f94e4b0bf4ef1e9de01eba550e4760675fb03d67b121dee88c",
-  "notes": "Filter tip size adjusted."
+  "version": "2026.04.09.0868",
+  "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
+  "sha256": "2213fbe1330222b439b61d30f8b8d2bba33f512f76d3bfbb103da150ad424a43",
+  "notes": "Launcher file name aligned with SCUM_Server_Browser.exe."
 }
