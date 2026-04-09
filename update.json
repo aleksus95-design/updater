@@ -1,6 +1,6 @@
 {
-  "version": "2026.04.10.0218",
+  "version": "2026.04.10.0238",
   "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
-  "sha256": "426f5499f5d232f977ff9497586ab1c9810228db54ba087ad2e152d4ae02a876",
-  "notes": "Launch-state guard, owner claim recovery, nested pak cleanup."
+  "sha256": "12c6a886c90e25f5caaab7eefb125858abd89cb728c873df1ef8e3cc5b932279",
+  "notes": "Test update build."
 }
