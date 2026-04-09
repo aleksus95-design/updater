@@ -1,6 +1,6 @@
 {
-  "version": "2026.04.09.2018",
+  "version": "2026.04.09.2048",
   "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
-  "sha256": "0bd39b5e852481248fc6be089b4d974747dd11e80d33983d13605a8c471b50f7",
-  "notes": "Queued GUI helper handoff and updater launch diagnostics."
+  "sha256": "3ef863252e06aafffafa0565d206188e521293fe6a10dd146ea77ff03307c893",
+  "notes": "Queued helper handoff verified, safer legacy bridge scanning."
 }
