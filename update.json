@@ -1,6 +1,6 @@
 {
-  "version": "2026.04.10.2358",
+  "version": "2026.04.11.0218",
   "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
-  "sha256": "03c7205dff3fcd533305c205e36f02236ce00b9c1b2234435eb0b955304726df",
-  "notes": "Server info tabs, owner repositories and My Servers open fix."
+  "sha256": "985f0c91d56250445a0c0e21f3b104f91bf6defb4c75f087f05be29e91536b03",
+  "notes": "Repositories tab optimized, up to 5 mod repositories, strict official Paks cleanup."
 }
