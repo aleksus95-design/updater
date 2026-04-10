@@ -1,6 +1,6 @@
 {
-  "version": "2026.04.11.0618",
+  "version": "2026.04.11.0718",
   "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
-  "sha256": "a2ff060f5ce9cbacd35563c30c52494894edec322eb9d5a0b77069135072738a",
-  "notes": "Owner modded removal flow fixed and owner remove button added."
+  "sha256": "db4ed9aed94b13e23ca655679381efaa0d82046e3b4d8cf34a500d9f9d5387a0",
+  "notes": "Launcher icon refreshed and icon loading optimized."
 }
