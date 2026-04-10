@@ -1,6 +1,6 @@
 {
-  "version": "2026.04.11.0918",
+  "version": "2026.04.11.0938",
   "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
-  "sha256": "341c7767d12828e1be2c7cc416f0a9be5a3ee3ac1038fc7d4a65fc07df7d5557",
-  "notes": "Status placeholder fix and longer owner claim code lifetime."
+  "sha256": "da4834af747901a722ad6f8f37d3e4c382e738f5a66cb4fa232b5e3ab2455a0d",
+  "notes": "Updater now removes backup exe after successful install and keeps owner auth session."
 }
