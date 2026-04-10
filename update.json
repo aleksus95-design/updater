@@ -1,6 +1,6 @@
 {
-  "version": "2026.04.11.0718",
+  "version": "2026.04.11.0738",
   "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
-  "sha256": "db4ed9aed94b13e23ca655679381efaa0d82046e3b4d8cf34a500d9f9d5387a0",
-  "notes": "Launcher icon refreshed and icon loading optimized."
+  "sha256": "abb0dc12f75d0663c48b03c9b6e15b144a13956fe35d2ad69717cbfa77948045",
+  "notes": "Launcher icon replaced with 69.png."
 }
