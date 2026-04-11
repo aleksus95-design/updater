@@ -1,6 +1,6 @@
 {
-  "version": "2026.04.11.1742",
+  "version": "2026.04.11.1817",
   "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
-  "sha256": "b094e8e1b073d96bccbf27038fb3bd01209e839df51d00423177cf8da926ee64",
-  "notes": "GitHub archive fallback for owner mod repositories after API rate-limit failures."
+  "sha256": "969488abbb3405eef08f92c71138ea5c31283a953400a51e9d1591f34ed10ebe",
+  "notes": "Bundled GitHub sync bootstrap and profile-backed modded server recovery for owners."
 }
