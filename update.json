@@ -1,6 +1,6 @@
-﻿{
-  "version": "2026.04.11.1512",
-  "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
-  "sha256": "164fdaefdd25d7ac3728cb75c19e54e41bf4d9bfd0d60bb4324e18333ee9a487",
-  "notes": "Installer refreshes the live manifest before download, fixing stale-cache SHA mismatches."
+{
+    "notes":  "BOM-safe GitHub JSON parsing and clean no-BOM update manifest for legacy launcher updates.",
+    "url":  "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
+    "version":  "2026.04.11.1559",
+    "sha256":  "7deb52ab53f077060d8021ab59f3cb132d4315e59df030eb8806577274aeeaf1"
 }
