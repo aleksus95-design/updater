@@ -1,6 +1,6 @@
 {
-    "notes":  "BOM-safe GitHub JSON parsing and clean no-BOM update manifest for legacy launcher updates.",
-    "url":  "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
-    "version":  "2026.04.11.1559",
-    "sha256":  "7deb52ab53f077060d8021ab59f3cb132d4315e59df030eb8806577274aeeaf1"
+  "version": "2026.04.11.1742",
+  "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
+  "sha256": "b094e8e1b073d96bccbf27038fb3bd01209e839df51d00423177cf8da926ee64",
+  "notes": "GitHub archive fallback for owner mod repositories after API rate-limit failures."
 }
