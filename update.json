@@ -1,6 +1,6 @@
-{
-  "version": "2026.04.11.0958",
-  "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
-  "sha256": "227f5087fcea16689aadaff2b57501fe013b4f3a7c9baec655c4399274f42e9c",
-  "notes": "Server info save is fully asynchronous; owner session restore confirmed."
+﻿{
+    "version":  "2026.04.11.1118",
+    "url":  "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
+    "sha256":  "aa9566c82653a559195c87c2439ede2d65e548a71bb676fea14ffb646b6ddb67",
+    "notes":  "Last-known caches for BattleMetrics/modded/favorites, stronger owner session restore, modded favorite source recovery, sites tab adds Lolka."
 }
