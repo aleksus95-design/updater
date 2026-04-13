@@ -1,6 +1,6 @@
 {
-  "version": "2026.04.11.1817",
+  "version": "2026.04.13.0118",
   "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
-  "sha256": "969488abbb3405eef08f92c71138ea5c31283a953400a51e9d1591f34ed10ebe",
-  "notes": "Bundled GitHub sync bootstrap and profile-backed modded server recovery for owners."
+  "sha256": "10bfa7bf5181e2688dcb6f3e1032757721d55134493272a86ef8c1908e63675a",
+  "notes": "Fixed anti-cheat repo bootstrap, full mod cleanup, and modded launch cleanup."
 }
