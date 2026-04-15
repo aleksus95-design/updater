@@ -1,0 +1,8 @@
+{
+  "version": "2026.04.15.0118",
+  "url": "https://github.com/aleksus95-design/SSBReleases/releases/download/2026.04.15.0118/SCUM_Server_Browser_Portable_2026.04.15.0118.zip",
+  "sha256": "dd6da9e62eb2505b97a0b0781e159844f4e9931a561885b6b93586293114902b",
+  "notes": "Bridge player update via SSBReleases zip.",
+  "package_format": "zip",
+  "launch_exe": "SCUM_Server_Browser.exe"
+}
