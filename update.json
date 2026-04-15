@@ -1,6 +1,6 @@
 {
-  "version": "2026.04.13.0118",
+  "version": "2026.04.15.0018",
   "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
-  "sha256": "10bfa7bf5181e2688dcb6f3e1032757721d55134493272a86ef8c1908e63675a",
-  "notes": "Fixed anti-cheat repo bootstrap, full mod cleanup, and modded launch cleanup."
+  "sha256": "3ed1ddb64a3f0be3fa9aca5b011aaccbdb94453731b8436e5476d843831fc278",
+  "notes": "Fixed BattleMetrics error statuses so the launcher shows clean user-friendly messages without raw URLs."
 }
