@@ -1,6 +1,6 @@
 {
-  "version": "2026.04.25.1618",
+  "version": "2026.04.25.1730",
   "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
-  "sha256": "53d82ca7c361117cbfd94adb5120e308bd1ad6aaec7b2088911b0fab8453f8e8",
-  "notes": "Fixed SCUM update pak detection so official new pakchunk files are not deleted, and repaired broken text in the modded server details panel."
+  "sha256": "75b25c61d87e13db16d5194e29aa498a533fa02b7911b77ab715d0c46482dc12",
+  "notes": "Fixed launcher self-version so the update button switches to current after installation. Keeps official SCUM pakchunk files safe and repairs broken modded server details text."
 }
