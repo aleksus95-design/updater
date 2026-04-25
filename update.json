@@ -1,6 +1,8 @@
 {
-  "version": "2026.04.25.1839",
+  "version": "2026.04.25.2121",
   "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
-  "sha256": "28d6c594db5c9f5764e13d46c0bc6ef756b5417add25d47800f6348afaf1b91f",
-  "notes": "Hotfix for mod package preparation after the SCUM update: safer official pak detection, safer cleanup, and resilient multi-repository mod downloads. Also keeps launcher self-version current."
+  "sha256": "6d79f36fb325309436a0e14478a857f9ec10d419cca1e935b838554beb912627",
+  "notes": "Hotfix: before launching a modded SCUM server the launcher refreshes the online mod registry by server IP:PORT, preventing stale local cache from downloading removed GitHub repositories. Keeps repository names hidden in logs and preserves resilient mod package preparation.",
+  "package_format": "exe",
+  "launch_exe": "SCUM_Server_Browser.exe"
 }
