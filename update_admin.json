@@ -1,8 +1,8 @@
 {
-  "version": "2026.04.25.2121",
+  "version": "2026.04.29.1259",
   "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
-  "sha256": "6d79f36fb325309436a0e14478a857f9ec10d419cca1e935b838554beb912627",
-  "notes": "Hotfix: before launching a modded SCUM server the launcher refreshes the online mod registry by server IP:PORT, preventing stale local cache from downloading removed GitHub repositories. Keeps repository names hidden in logs and preserves resilient mod package preparation.",
+  "sha256": "7c9340b53955ba8d2b7b863a9a71882c9c6d643a4559e6b9e54341539531a408",
+  "notes": "Hotfix: OBS Studio and MiniChat 0.14.0 are allowed for streaming overlays, while macro tools and common auto-clicker/script runners are blocked by anti-cheat before launch and during SCUM sessions.",
   "package_format": "exe",
   "launch_exe": "SCUM_Server_Browser.exe"
 }
