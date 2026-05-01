@@ -1,8 +1,8 @@
 {
-  "version": "2026.04.29.1259",
-  "url": "https://raw.githubusercontent.com/aleksus95-design/updater/main/SCUM_Server_Browser.exe",
-  "sha256": "7c9340b53955ba8d2b7b863a9a71882c9c6d643a4559e6b9e54341539531a408",
-  "notes": "Hotfix: OBS Studio and MiniChat 0.14.0 are allowed for streaming overlays, while macro tools and common auto-clicker/script runners are blocked by anti-cheat before launch and during SCUM sessions.",
+  "version": "2026.05.01.1346",
+  "url": "https://github.com/aleksus95-design/SSBReleases/releases/download/2026.05.01.1346/SCUM_Server_Browser.exe",
+  "sha256": "fe7f554a1a019ec9b83e964a2ae427985b7dadfa5918ddddcc24e45e8eddc581",
+  "notes": "Release asset update: SCUM-AllowMods uses Content\\Paks\\~mods and cleans root Paks before direct launch.",
   "package_format": "exe",
   "launch_exe": "SCUM_Server_Browser.exe"
 }
