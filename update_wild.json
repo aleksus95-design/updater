@@ -1,8 +1,0 @@
-{
-  "version": "2026.05.01.1409",
-  "url": "https://github.com/aleksus95-design/SSBReleases/releases/download/2026.05.01.1409/WILD_Launcher.exe",
-  "sha256": "962fd4f76c2867bfee9f70ae0f8cc7b5c3620b34aa42896342c09cca730864bc",
-  "notes": "WILD build: bundled SCUM-AllowMods, macro false-positive fix, and modded pak isolation in Content\\Paks\\~mods.",
-  "package_format": "exe",
-  "launch_exe": "WILD_Launcher.exe"
-}
