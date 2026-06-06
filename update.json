@@ -1,8 +1,8 @@
 {
-  "version": "2026.05.01.1346",
-  "url": "https://github.com/aleksus95-design/SSBReleases/releases/download/2026.05.01.1346/SCUM_Server_Browser.exe",
-  "sha256": "fe7f554a1a019ec9b83e964a2ae427985b7dadfa5918ddddcc24e45e8eddc581",
-  "notes": "Release asset update: SCUM-AllowMods uses Content\\Paks\\~mods and cleans root Paks before direct launch.",
+  "version": "2026.06.06.1914",
+  "url": "https://github.com/aleksus95-design/SSBReleases/releases/download/2026.06.06.1914/SCUM_Server_Browser.exe",
+  "sha256": "4790dddccf46f9343fa6022955d3ef2ac13918dfb4d1422843aa0acee5b10b88",
+  "notes": "Ослаблена внутренняя защита лаунчера: больше не блокирует PowerShell/оверлеи/макро-процессы, оставлен контроль подключения к целевому серверу. Модовый запуск возвращён на Steam -fileopenlog без установки AllowMods DLL runtime. Anti-cheat события пишутся в GitHub repo логов.",
   "package_format": "exe",
   "launch_exe": "SCUM_Server_Browser.exe"
 }
