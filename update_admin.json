@@ -1,8 +1,8 @@
 {
-  "version": "2026.06.07.1400",
-  "url": "https://github.com/aleksus95-design/SSBReleases/releases/download/2026.06.07.1400/SCUM_Server_Browser.exe",
-  "sha256": "9d58ac94ad2b72267e755d556aa88acc07d53c14c3a3342014b95210fad371c5",
-  "notes": "NativeMapGate: launcher now installs the live map UE4SS payload from GitHub, preserves existing mods.txt lines, keeps SCUM_MagniMap_P.pak from cleanup, and trusts only the verified MapGate version.dll.",
+  "version": "2026.05.01.1346",
+  "url": "https://github.com/aleksus95-design/SSBReleases/releases/download/2026.05.01.1346/SCUM_Server_Browser.exe",
+  "sha256": "fe7f554a1a019ec9b83e964a2ae427985b7dadfa5918ddddcc24e45e8eddc581",
+  "notes": "Release asset update: SCUM-AllowMods uses Content\\Paks\\~mods and cleans root Paks before direct launch.",
   "package_format": "exe",
   "launch_exe": "SCUM_Server_Browser.exe"
 }
